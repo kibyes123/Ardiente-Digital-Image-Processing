@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\bin\Debug\Ardiente_DIP-Activity.exe.config
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\bin\Debug\Ardiente_DIP-Activity.exe
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\bin\Debug\Ardiente_DIP-Activity.pdb
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP_Activity.Form1.resources
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP_Activity.Properties.Resources.resources
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.exe
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP-Activity.pdb
+C:\Users\Dell\Desktop\SCHOOL\Ardiente_DIP-Activity\Ardiente_DIP-Activity\obj\Debug\Ardiente_DIP_Activity.SubtractionForm.resources
